@@ -1,0 +1,22 @@
+{
+  "name": "dilesmo",
+  "version": "1.0.0",
+  "description": "Deep learning project",
+  "main": "pascal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRollin/Dilesmo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRollin/Dilesmo/issues"
+  },
+  "homepage": "https://github.com/CRollin/Dilesmo#readme",
+  "dependencies": {
+    "jsdom": "^9.12.0"
+  }
+}
